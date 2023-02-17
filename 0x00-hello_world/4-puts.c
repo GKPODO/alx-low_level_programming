@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * return; alwawys return 0
+ * return; alwawys return 0 (Success)
  */
 int main(void)
 {
