@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - Entry point
- * Return 1 (Success)
+ * main - Entry point and program that prints a line to the standard error
+ * Return 1 (Success) This show that the program i successfll
  */
 int main(void)
 {
